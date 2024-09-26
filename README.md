@@ -1,0 +1,1 @@
+# Synthetic-AI-Powered-Job-Market-Analysis-with-SQL
